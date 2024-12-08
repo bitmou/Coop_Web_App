@@ -1,0 +1,11 @@
+- informa de problemas a resolver el codigo
+
+sintaxis:
+
+Titulo
+    - (tipo de lenguaje)
+        - fecha y hora
+        - definir la complejidad como (normal, dificil o avanzado)
+        - breve explicacion del problema
+        - informar si la linea de codigo del bug esta localizada o no
+        - 
